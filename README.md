@@ -66,6 +66,7 @@ Places to find, list, or promote bots and channels.
 
 - **[Fragment](https://fragment.com/)** — official auction for premium usernames, anonymous numbers, and TON-related assets.
 - **[Telegram Mini Apps store](https://t.me/tappshub)** — community-curated Mini Apps directory.
+- **[TOPTL](https://toptl.net)** — searchable directory for discovering and listing Telegram bots, channels, and groups, with category browsing and community voting.
 
 ## Official references
 
