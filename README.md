@@ -60,6 +60,12 @@ Where to actually run your bot in production.
 - **[Combot](https://combot.org/)** — group statistics, member growth, content metrics. Free tier covers most public groups.
 - **Custom Prometheus / Grafana** — for high-volume production. Instrument every `sendMessage` for latency + error-code distribution.
 
+## Group management
+
+Tools group and channel admins use to run their chats day to day.
+
+- **[@JoinApproveProBot](https://t.me/JoinApproveProBot)** — join-request management for Telegram groups and channels: review, approve, or decline pending join requests with batch actions and simple rules, so admins don't process them by hand.
+
 ## Telegram-native marketplaces
 
 Places to find, list, or promote bots and channels.
