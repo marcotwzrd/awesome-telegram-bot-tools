@@ -10,6 +10,7 @@ This list focuses on **tools you actually use day-to-day** rather than yet-anoth
 - [Bot frameworks](#bot-frameworks)
 - [Hosting & deployment](#hosting--deployment)
 - [Analytics & monitoring](#analytics--monitoring)
+- [Channel management](#channel-management)
 - [Telegram-native marketplaces](#telegram-native-marketplaces)
 - [Official references](#official-references)
 
@@ -59,6 +60,10 @@ Where to actually run your bot in production.
 - **[BotFather analytics](https://t.me/BotFather)** — `/mybots → Bot Settings → Bot Statistics` gives free daily message volume and active-user counts.
 - **[Combot](https://combot.org/)** — group statistics, member growth, content metrics. Free tier covers most public groups.
 - **Custom Prometheus / Grafana** — for high-volume production. Instrument every `sendMessage` for latency + error-code distribution.
+
+## Channel management
+
+- **[OpenSparta](https://opensparta.com/en)** - SaaS workspace for managing connected Telegram accounts and proxies, with relevant conversation discovery.
 
 ## Telegram-native marketplaces
 
