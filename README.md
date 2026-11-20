@@ -66,6 +66,7 @@ Places to find, list, or promote bots and channels.
 
 - **[Fragment](https://fragment.com/)** — official auction for premium usernames, anonymous numbers, and TON-related assets.
 - **[Telegram Mini Apps store](https://t.me/tappshub)** — community-curated Mini Apps directory.
+- **[TON Stories](https://t.me/TON_Storiesbot)** — Russian-language marketplace bot for buying and selling sponsored placements in Telegram Stories.
 
 ## Official references
 
